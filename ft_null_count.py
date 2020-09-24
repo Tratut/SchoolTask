@@ -8,4 +8,5 @@ def ft_null_count(x):
     for i in range(kol):
         if cop % 10 == 0:
             count += 1
+        cop //= 10
     return count
