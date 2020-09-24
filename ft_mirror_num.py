@@ -6,5 +6,3 @@ def ft_mirror_num(x):
         print(True)
     else:
         print(False)
-
-

@@ -1,2 +1,2 @@
-def ft_num_prin(x):
+def ft_num_print(x):
     print(x)
