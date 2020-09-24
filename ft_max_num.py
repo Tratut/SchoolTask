@@ -10,6 +10,3 @@ def ft_max_num(x):
             mx = cop % 10
         cop //= 10
     return mx
-
-
-print(ft_max_num(1234))

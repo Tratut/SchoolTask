@@ -7,6 +7,3 @@ def ft_mirror_count(x):
         if ft_rev_num(i) == i > 10:
             kol += 1
     return kol
-
-
-print(ft_mirror_count(23))

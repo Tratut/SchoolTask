@@ -13,6 +13,3 @@ def ft_second_max_num(x):
             mx_2 = cop % 10
         cop //= 10
     return mx_2
-
-
-print(ft_second_max_num(123490))

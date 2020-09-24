@@ -11,4 +11,3 @@ def ft_rev_num(x):
         cop //= 10
         razryad -= 1
     return out // 10
-
